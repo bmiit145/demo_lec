@@ -24,6 +24,12 @@ class UserController extends Controller
     {
         return view('indexz');
     }
+
+    public function demo_7()
+    {
+        return view('indexz');
+    }
+   
     public function demo_4()
     {
         return view('indexz');
