@@ -20,7 +20,7 @@ class UserController extends Controller
     {
         return view('indexz');
     }
-    public function demo_4()
+    public function demo_5()
     {
         return view('indexz');
     }
