@@ -18,6 +18,6 @@ class UserController extends Controller
 
     public function demo_1()
     {
-        return view('index');
+        return view('indexz');
     }
 }
